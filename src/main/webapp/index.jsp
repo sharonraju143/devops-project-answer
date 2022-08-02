@@ -25,7 +25,7 @@
 </label>
        
 <label>
-<input type="radio" name="r1" value="sub" />product
+<input type="radio" name="r1" value="mul" />product
 <br />
 </label>       
 
